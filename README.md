@@ -3,6 +3,7 @@
 A Human Resources Management N-Layered .NET Core Web API Project.
 
 🛠️ Backend Technologies: Employing N-layered architecture, .Net 8, Asp.net Web API, Azure cloud database, Identity, and Jwt Token, Workwise ensures robustness and scalability.
+
 🎨 Frontend Technologies: Leveraging React.js, Html, Css, Javascript, React-Bootstrap, Axios, Toastify, Popover, Dependency Injection, and Jwt Token Decoder, the user experience is seamless and intuitive.
 
 For Backend Github Link : https://github.com/ozdeeraslan/WorkWise-Backend.git
